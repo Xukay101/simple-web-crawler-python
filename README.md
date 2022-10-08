@@ -30,7 +30,7 @@ $ pip install -r requirements.txt
 
 ### Ejecucion 🚀
 
-_Ejecutar el archivo web-crawler pasandole una url y profundidad como parametro._
+_Ejecutar el archivo web-crawler pasandole una **url** y **profundidad** como parametro._
 
 ```
 $ python3 web-crawler.py [Url] [Depth]
